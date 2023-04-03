@@ -29,7 +29,7 @@
     "@types/lodash": "^4.14.175",
     "conventional-commit-types": "^3.0.0",
     "didyoumean": "^1.2.2",
-    "ramda": "^0.27.1"
+    "ramda": "^0.29.0"
   },
   "devDependencies": {
     "@semantic-release/changelog": "5.0.1",
